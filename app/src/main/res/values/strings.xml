@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">TourQuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="wilanowPalace">Palace at the Wilanow</string>
+    <string name="wilanowPalaceDescription">Wilanów Palace or Wilanowski Palace is a royal palace located
+        in the Wilanów district, Warsaw. It is one of Poland\'s most important monuments.
+        The Palace\'s museum, established in 1805, is a repository of the country\'s royal and artistic heritage.
+        The palace and park in Wilanów hosts cultural events and concerts,
+        including Summer Royal Concerts in the Rose Garden and the International Summer Early Music Academy.</string>
+    <string name="potockiMaus">Potocki Mausoleum</string>
+    <string name="potockiMausDescription">An extraordinary piece of funerary art,
+        befitting two of Poland\'s most powerful, wealthy and influential families.
+        Consisting of a Neo-Gothic canopy with lions holding shields bearing
+        the crests of the Potocki and Lubomirski families in each corner,
+        on the sarcophagus itself are the figures of the deceased,
+        and around the sides symbols of their virtues and interests are displayed.</string>
+    <string name="curchOfSantAnne">Church of St. Anne</string>
+    <string name="curchOfSantAnneDescription">Located at Wilanów, a church has stood on this exact site since the 14th century.
+        The church suffered damage during both world wars and was even used as an internment camp by the Nazis,
+        who also looted and damaged it. The church bells dating from 1723 and 1777 survived thanks to the bravery of
+        the local people who hid them; today they are housed in the newly built Third Millennium Tower. </string>
+
+    <string name="botanicGarden">Botanical Garden</string>
+    <string name="botanicGardenDescription">The Botanical Garden is a huge, peacefull park with nice walking paths:
+        roughly half of is taken, according to the map, by “useful and ornamental plants”, the second part (arboretum)
+        is “a collection of woody plants”, where the azaleas are the most popular among visitors (they bloom in the spring). </string>
+    <string name="zawadyBeach">Zawady Beach</string>
+    <string name="zawadyBeachDescription">One of Warsaw\'s beaches: perfect for everyone, families, groups of friends,
+        looking to hang out and have a good time. In the old days it would be a summer day destination,
+        a typical lazy Sunday activity for Varsovians.</string>
+    <string name="morysinNatureReserve">Morysin Nature Reserve</string>
+    <string name="morysinNatureReserveDescription">Until the beginning of the nineteenth century,
+        it cultivated the land, waterbed, agricultural feed and animal farm. Stanisław Kostka Potocki,
+        the owner of Wilanów, liquidated the wildlife refuge and managed a wild eye, there was a park here,
+        but there are not many traces of the former park. The forest is intersecting paths but it is a wild place,
+        there are many dead trees, some are so old that they can hardly be seen from the moss layer.</string>
+
+    <string name="golfClub">Morysin Nature Reserve</string>
+    <string name="golfClubDescription">If someone is a fan of golf and can not wait for the next game
+        or would like to try something new,he can come to the Royal Golf Club Wilanow -
+        was founded by players at GPP golf facility on Vogla Street in 2002. Social activities such as picnics
+        or Parties play an important role in the life of the club.</string>
+    <string name="kuzniaKulturalna">Kuźnia Kulturalna</string>
+    <string name="kuzniaDescription">The elegant interior and the neighborhood of the Palace in Wilanów make
+        it a great place to go out in the evening, listen to great artists in a cozy atmosphere
+        and eat something really delicious at the same time.</string>
+    <string name="posterMuseum">Poster Museum</string>
+    <string name="posterDescription">The Poster Museum at Wilanów is the world\'s oldest poster museum and
+        is part of the National Museum in Warsaw. It was established through a grant of several thousand
+        posters belonging to the National Museum, made by the Museum's Director, Stanislav Lorentz.
+        The Poster Museum opened in June 1968, becoming the world's first museum dedicated to this art form.</string>
+    <string name="royalWilanow">Royal Wilanów</string>
+    <string name="royalDescription">The Royal Wilanów building is something for fans of modern architecture.
+        It has an irregular shape of a glass block, set on a trapezoidal plan with two inner courtyards.
+        The facade of the building arches bends, creating a background for the square in front of the building.
+        It creates an appropriate background for both historical buildings in the neighborhood and for modern
+        apartment buildings in the "Wilanów Village"..</string>
+
+    <string name="kuchniaOtwarta">Kuchnia Otwarta</string>
+    <string name="kuchniaOtwartaDescription">Kuchnia Otwarta is an everyday restaurant. Fairly fed, seasonally,
+        at affordable prices. It is a neighborly place whose aim is strong, friendly relations with the inhabitants
+        of Wilanów and the surrounding area. The direction of the cuisine: Polish - according to the author\'s vision of the Chef.</string>
+    <string name="stolPolski">Stół Polski</string>
+    <string name="stolPolskiDescription">A family restaurant with a Polish modern kitchen, a home-like interior and a large,
+        green patio. Loose atmosphere, lots of smile and good food.</string>
+    <string name="restauracjaWilanow">Restauracja Wilanów</string>
+    <string name="restauracjaWilanowDescription">A restaurant with traditional Polish cuisine and a classic,
+        somewhat old-fashioned décor and a peaceful atmosphere. The restaurant specializes in dishes with duck,
+        pheasant or deer.</string>
+    <string name="plato">Plato</string>
+    <string name="platoDescription">Author\'s kitchen of young, passionate people based on European and Asian cuisine.
+        The restaurant specializes in seafood and fish. A lot of energy on the plate and in the interior.</string>
+</resources>
