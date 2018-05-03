@@ -32,7 +32,7 @@ public class FoodFragment extends Fragment {
                 R.drawable.food_stol_polski));
 
         // Create an new PlaceAdapter - data source is a list of places
-        PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.category_colors);
+        PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.my_white);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
 
         // Make the ListView and will display list items for each place in the list.

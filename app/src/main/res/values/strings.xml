@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">TourQuide</string>
+    <string name="app_name">Wilanów - Tour Guide</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="monumentsCategory">History</string>
+    <string name="natureCategory">Nature</string>
+    <string name="otherCategory">Other</string>
+    <string name="foodCategory">Food</string>
 
     <string name="wilanowPalace">Palace at the Wilanow</string>
     <string name="wilanowPalaceDescription">Wilanów Palace or Wilanowski Palace is a royal palace located
@@ -73,4 +78,10 @@
     <string name="plato">Plato</string>
     <string name="platoDescription">Author\'s kitchen of young, passionate people based on European and Asian cuisine.
         The restaurant specializes in seafood and fish. A lot of energy on the plate and in the interior.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
