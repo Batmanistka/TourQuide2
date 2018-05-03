@@ -12,7 +12,6 @@ import java.util.ArrayList;
 public class OthersFragment extends Fragment {
 
     public OthersFragment() {
-        // Required empty public constructor
     }
 
     @Override

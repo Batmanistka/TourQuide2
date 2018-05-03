@@ -35,6 +35,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
             return new FoodFragment();
         }
     }
+
     /**
      * Return the total number of pages.
      */

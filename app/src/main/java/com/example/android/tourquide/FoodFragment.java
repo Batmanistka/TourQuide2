@@ -12,7 +12,6 @@ import java.util.ArrayList;
 public class FoodFragment extends Fragment {
 
     public FoodFragment() {
-        // Required empty public constructor
     }
 
     @Override

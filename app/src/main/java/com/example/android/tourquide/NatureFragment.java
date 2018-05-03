@@ -12,7 +12,6 @@ import java.util.ArrayList;
 public class NatureFragment extends Fragment {
 
     public NatureFragment() {
-        // Required empty public constructor
     }
 
     @Override
