@@ -43,12 +43,12 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
         // Check if an image is provided for this place or not
         if (currentPlace.hasImage()) {
-            // If an image is available, display the provided image based on the resource ID
+            // Display available image based on the resource ID
             imageView.setImageResource(currentPlace.getImageResourceId());
             // Make sure the view is visible
             imageView.setVisibility(View.VISIBLE);
         } else {
-            // Otherwise hide the ImageView (set visibility to GONE)
+            // If there is no image - set visibility to GONE
             imageView.setVisibility(View.GONE);
         }
 
@@ -59,8 +59,6 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         // Set the background color of the text container View
         textContainer.setBackgroundColor(color);
 
-        // Return the whole list item layout (containing 2 TextViews) so that it can be shown in
-        // the ListView.
         return listItemView;
     }
 }

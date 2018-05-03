@@ -1,8 +1,6 @@
 <resources>
-    <string name="app_name">Wilanów - Tour Guide</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Warsaw Wilanów - Tour Guide</string>
+    <string name="action_settings">Settings</string>
 
     <string name="monumentsCategory">History</string>
     <string name="natureCategory">Nature</string>
@@ -29,11 +27,12 @@
         the local people who hid them; today they are housed in the newly built Third Millennium Tower. </string>
 
     <string name="botanicGarden">Botanical Garden</string>
-    <string name="botanicGardenDescription">The Botanical Garden is a huge, peacefull park with nice walking paths:
-        roughly half of is taken, according to the map, by “useful and ornamental plants”, the second part (arboretum)
-        is “a collection of woody plants”, where the azaleas are the most popular among visitors (they bloom in the spring). </string>
+    <string name="botanicGardenDescription">The Botanical Garden was founded in 1974
+        is a huge, peacefull park with nice walking paths: roughly half of is taken, according to the map,
+        by “useful and ornamental plants”, the second part (arboretum) is “a collection of woody plants”,
+        where the azaleas are the most popular among visitors (they bloom in the spring). </string>
     <string name="zawadyBeach">Zawady Beach</string>
-    <string name="zawadyBeachDescription">One of Warsaw\'s beaches: perfect for everyone, families, groups of friends,
+    <string name="zawadyBeachDescription">One of Warsaw\'s beaches on the Vistula River: perfect for everyone, families, groups of friends,
         looking to hang out and have a good time. In the old days it would be a summer day destination,
         a typical lazy Sunday activity for Varsovians.</string>
     <string name="morysinNatureReserve">Morysin Nature Reserve</string>
@@ -55,14 +54,14 @@
     <string name="posterMuseum">Poster Museum</string>
     <string name="posterDescription">The Poster Museum at Wilanów is the world\'s oldest poster museum and
         is part of the National Museum in Warsaw. It was established through a grant of several thousand
-        posters belonging to the National Museum, made by the Museum's Director, Stanislav Lorentz.
-        The Poster Museum opened in June 1968, becoming the world's first museum dedicated to this art form.</string>
+        posters belonging to the National Museum, made by the Museum\'s Director, Stanislav Lorentz.
+        The Poster Museum opened in June 1968, becoming the world\'s first museum dedicated to this art form.</string>
     <string name="royalWilanow">Royal Wilanów</string>
     <string name="royalDescription">The Royal Wilanów building is something for fans of modern architecture.
-        It has an irregular shape of a glass block, set on a trapezoidal plan with two inner courtyards.
+        Built in 2015, it has an irregular shape of a glass block, set on a trapezoidal plan with two inner courtyards.
         The facade of the building arches bends, creating a background for the square in front of the building.
         It creates an appropriate background for both historical buildings in the neighborhood and for modern
-        apartment buildings in the "Wilanów Village"..</string>
+        apartment buildings in the "Wilanów Village".</string>
 
     <string name="kuchniaOtwarta">Kuchnia Otwarta</string>
     <string name="kuchniaOtwartaDescription">Kuchnia Otwarta is an everyday restaurant. Fairly fed, seasonally,
@@ -78,10 +77,9 @@
     <string name="plato">Plato</string>
     <string name="platoDescription">Author\'s kitchen of young, passionate people based on European and Asian cuisine.
         The restaurant specializes in seafood and fish. A lot of energy on the plate and in the interior.</string>
-    <string name="title_activity_main2">Main2Activity</string>
+
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
     <string name="tab_text_3">Tab 3</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+
 </resources>
